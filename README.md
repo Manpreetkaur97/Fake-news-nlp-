@@ -1,3 +1,6 @@
+Fake news detection: A fake news dataset in natural language processing (NLP) refers to a collection of news articles that have been labeled as either "real" or "fake." These datasets are specifically curated to support research and development in the area of fake news detection using  Machine learning and NLP techniques. 
+
+
 NLP: Natural Language Processing (NLP) is a field of artificial intelligence (AI) that focuses on the interaction between computers and human languages. 
 It involves the development of algorithms and models that enable computers to understand, interpret, and generate human language data in a meaningful way.
 
